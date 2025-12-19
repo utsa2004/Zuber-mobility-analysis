@@ -111,5 +111,10 @@ El análisis evidencia que tanto el **clima** como la **localización** influyen
 
 ---
 
+## 🔗 Enlace al repositorio
+📎 https://github.com/utsa2004/Zuber-mobility-analysis
+
+---
+
 ## 🧠 Nota final
 Este proyecto demuestra la capacidad de **integrar datos obtenidos mediante SQL con análisis exploratorio y pruebas estadísticas en Python**, generando recomendaciones estratégicas basadas en evidencia para la toma de decisiones en el sector de movilidad urbana.
